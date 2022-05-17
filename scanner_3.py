@@ -1,7 +1,6 @@
 import datetime
 from statistics import mode
 
-# TODO: make code readable for software devs
 # TODO: include profile lengths, determine if they're all 47. document for others to continue.
 
 # **Reading the Document**
