@@ -123,7 +123,7 @@ all_lines = [] # List of all line strings
 profiles = [] # List of all profiles
 
 
-with open("3508_95256_new.hex") as f:
+with open("3508_95256_new.hex", "r") as f:
     # Opens desired file, make sure file is in same directory and use file name here
     for line in f:
         text_line = Line(line)
